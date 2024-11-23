@@ -716,6 +716,11 @@ hash = "f93035c238b1d4e94e70e3dcfb80b12a77f4ad3d63a42875a2b1eb746c50b596"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "dd107d6d7a3df330f3f37a60cc0bf258337d6f39406c01f455d86aee0080d7eb"
+metafile = true
+
+[[files]]
 file = "mods/zerocore.pw.toml"
 hash = "b51c9c50edbb8a8ef8823160e2cb5d6b1d20c06c5b86dc2d3541c456b8962ab3"
 metafile = true
