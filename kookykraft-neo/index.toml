@@ -131,6 +131,11 @@ hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "bbb3f09fbd5a3ca7aa82c41923f4557429fa465993c2817e9966dd3f8164e318"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "c9c1134b6475be8d2d101bb7a29afbe43ca7f7df04819ad350e7cc96dbf1284a"
 metafile = true
