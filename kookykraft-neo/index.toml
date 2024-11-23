@@ -296,6 +296,11 @@ hash = "b75b9a502cc409933fed2a73dc1ab8b091e618d7b51d3b0256b264ed7ca55bc0"
 metafile = true
 
 [[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "c47a5b65cb645eaed03d389463eba4a61bf5dc8863d191291b9cfb0d355cd123"
+metafile = true
+
+[[files]]
 file = "mods/ldlib.pw.toml"
 hash = "decac424aa657198c8746c9786bda7721870194dc693a2cb7f5a692e6524907a"
 metafile = true
