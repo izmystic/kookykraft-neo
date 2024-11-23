@@ -446,6 +446,11 @@ hash = "e711ae9ea2366056fecbab1ed7aff3ed61d719712d86b56c825e04b9f05449e7"
 metafile = true
 
 [[files]]
+file = "mods/modern-dynamics.pw.toml"
+hash = "1a24c543a66499330fef8a631e5208825b6678c52ed08c9985fe0ea44cf2ceeb"
+metafile = true
+
+[[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "61836654e4da58df51591b3aef29c5c1c99562b38ebccf2984edda89da4abea7"
 metafile = true
