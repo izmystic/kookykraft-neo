@@ -621,6 +621,11 @@ hash = "e0e74bffeb642509882216c2fd423e6b9e64192c0c0568623e8c9c9e005d9f9d"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "726dd81c3e660473716fb109264d76cf9386cf645a79d436e327ff86400b655b"
+metafile = true
+
+[[files]]
 file = "mods/tesseract-api.pw.toml"
 hash = "0e9952fe48a88c74f72cb68e1df6459fb925f5155e301a891e373de4d769f654"
 metafile = true
