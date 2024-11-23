@@ -1,0 +1,13 @@
+name = "Additional Structures"
+filename = "AdditionalStructures-1.21-(v.6.0.1-NEO).jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/TWsbC6jW/versions/2AMB4SVA/AdditionalStructures-1.21-%28v.6.0.1-NEO%29.jar"
+hash-format = "sha512"
+hash = "39c0217d66448b64dbd8791c20c4a38726e82e40a57a166433b6e745f562242da9857ba2a50f5377ab090f8deb37911e2821064840bb6b626757d0602acc8334"
+
+[update]
+[update.modrinth]
+mod-id = "TWsbC6jW"
+version = "2AMB4SVA"
