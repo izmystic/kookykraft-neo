@@ -396,6 +396,11 @@ hash = "f999bf28a0b46d05697e322e6ee7557c1133729812966d1ef9450531032eae67"
 metafile = true
 
 [[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "3fe22f6ccad58de3b6b699542be19d5ebee5a9163fdc6d860b2005d6e627bbbd"
+metafile = true
+
+[[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "61836654e4da58df51591b3aef29c5c1c99562b38ebccf2984edda89da4abea7"
 metafile = true
