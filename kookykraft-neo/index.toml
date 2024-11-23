@@ -406,6 +406,11 @@ hash = "c5bd495559155721db2f361caac5047a2d24fdb0966593c85d3985f2b35d0875"
 metafile = true
 
 [[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "777b5473b0d167e1f80d25357129dfa0d1ea704203079656ffc222a4e776c45e"
+metafile = true
+
+[[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "61836654e4da58df51591b3aef29c5c1c99562b38ebccf2984edda89da4abea7"
 metafile = true
