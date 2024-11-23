@@ -116,6 +116,11 @@ hash = "ae98eee6f1484bc9cd40f377120e1a96224a7c0e7c6bfc23e30b26bc8fef2865"
 metafile = true
 
 [[files]]
+file = "mods/configuration.pw.toml"
+hash = "71fe5a1ce9b1c60a48fdca5f200b0d13d485a43a50efff7426cf3f6464c48398"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "fbca08faa9ef106f8596ea66b70ee0b9f2bae95812be9035410c363adfc789a7"
 metafile = true
@@ -273,6 +278,16 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "c9c1134b6475be8d2d101bb7a29afbe43ca7f7df04819ad350e7cc96dbf1284a"
+metafile = true
+
+[[files]]
+file = "mods/gregtechceu-modern.pw.toml"
+hash = "6e40c0f36c3540713d55d29cc0434abfd0a850d31f5857faa018199fcb4b4589"
+metafile = true
+
+[[files]]
+file = "mods/ldlib.pw.toml"
+hash = "decac424aa657198c8746c9786bda7721870194dc693a2cb7f5a692e6524907a"
 metafile = true
 
 [[files]]
