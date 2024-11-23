@@ -671,6 +671,11 @@ hash = "26a600d36f09a84b2f1e94dcec563e15895a249abf4158c96a6b6d28f35de10b"
 metafile = true
 
 [[files]]
+file = "mods/waystones.pw.toml"
+hash = "d1f4e89f0bab13ba276c7eda30f893c96a4ea6163357e8fcefe0c3b2b704b142"
+metafile = true
+
+[[files]]
 file = "mods/zerocore.pw.toml"
 hash = "b51c9c50edbb8a8ef8823160e2cb5d6b1d20c06c5b86dc2d3541c456b8962ab3"
 metafile = true
