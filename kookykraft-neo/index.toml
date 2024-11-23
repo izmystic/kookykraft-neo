@@ -661,6 +661,11 @@ hash = "8d7dffb63bee93581b06d25c059b07c134d6cfebd3bcc1b535d975b45ccd9f1e"
 metafile = true
 
 [[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "fcc4e00f37493f6292af7fbef7be6ea27e1a0cb4185d010e17db67e4ac61da15"
+metafile = true
+
+[[files]]
 file = "mods/zerocore.pw.toml"
 hash = "b51c9c50edbb8a8ef8823160e2cb5d6b1d20c06c5b86dc2d3541c456b8962ab3"
 metafile = true
