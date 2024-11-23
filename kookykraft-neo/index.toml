@@ -79,3 +79,8 @@ metafile = true
 file = "mods/owo-lib.pw.toml"
 hash = "54d899168a9152823a57a7e1d8087cba2019b52060d5c7f847c9cdbdea273f8f"
 metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "216b634d4cfae096c106b1414706876190a90a30b165d6b4327ad39f6a59b65d"
+metafile = true
