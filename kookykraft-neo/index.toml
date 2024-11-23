@@ -651,6 +651,11 @@ hash = "726dd81c3e660473716fb109264d76cf9386cf645a79d436e327ff86400b655b"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "515ccee1b6111ad213d832d5a7e266d126002a5fe65b072e4e0594afa3b3b55e"
+metafile = true
+
+[[files]]
 file = "mods/stellaris.pw.toml"
 hash = "629854d6a1b8e7fec62add406861d1ce6d92713847a83e048ca34bcfa6cf8229"
 metafile = true
