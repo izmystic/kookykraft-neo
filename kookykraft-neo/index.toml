@@ -346,6 +346,11 @@ hash = "c456af7d213375294457c3638f249da1f347fc133f513ccdba1e38575af54145"
 metafile = true
 
 [[files]]
+file = "mods/lithosphere.pw.toml"
+hash = "772046e7dbfa2a2951529265b27fc67fe29fcbe15a41fffe0334bd34118ad639"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "3670f7011204413b9f982500a1146e9914f87340d31c2ff5d6c69ef24b10d16c"
 metafile = true
