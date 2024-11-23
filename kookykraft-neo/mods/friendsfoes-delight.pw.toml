@@ -1,0 +1,13 @@
+name = "Friends&Foes Delight"
+filename = "friendsfoesdelight-1.0.1-1.21.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cjT45cjC/versions/sKMKZHkr/friendsfoesdelight-1.0.1-1.21.x.jar"
+hash-format = "sha512"
+hash = "a80f4eb0315204914dcb6a0ca63f49bb8470532748f9957d4c9b00ce2d2e661ae70fe9b46430caae0d1a87126c5f03b1989047db7d926e0e123b502d2d1d4c80"
+
+[update]
+[update.modrinth]
+mod-id = "cjT45cjC"
+version = "sKMKZHkr"

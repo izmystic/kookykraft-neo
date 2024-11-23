@@ -261,6 +261,11 @@ hash = "a3a0d38513eeeba88ae55e3aa6fce0babf9af33fe74be8ae12171fe090c54653"
 metafile = true
 
 [[files]]
+file = "mods/friendsfoes-delight.pw.toml"
+hash = "8082dcd0c754d11e3be23ea7c3abd8db5fbc2366b0d5ed915e0768a1da50272d"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "39ba2724e9940d01fe686e2c6ae17b3085ff1e77c8a7ef98164950ee9786cbee"
 metafile = true
