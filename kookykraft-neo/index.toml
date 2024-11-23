@@ -711,6 +711,11 @@ hash = "27fa137cbc4e152b316ef8e7f11d1e2551768e24bab2ffbc8467165302c3a7c3"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "f93035c238b1d4e94e70e3dcfb80b12a77f4ad3d63a42875a2b1eb746c50b596"
+metafile = true
+
+[[files]]
 file = "mods/zerocore.pw.toml"
 hash = "b51c9c50edbb8a8ef8823160e2cb5d6b1d20c06c5b86dc2d3541c456b8962ab3"
 metafile = true
