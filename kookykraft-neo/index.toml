@@ -461,6 +461,11 @@ hash = "895e7a90af3348a32be2b0021ddf6560dc3a3fc4e2912a7a1927a4d57b2bf21f"
 metafile = true
 
 [[files]]
+file = "mods/more-immersive-wires.pw.toml"
+hash = "0e4296a2ed7891bb18bcce8818c6d9680c937bc27e370c119342f561a9ca8c65"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "54d899168a9152823a57a7e1d8087cba2019b52060d5c7f847c9cdbdea273f8f"
 metafile = true
