@@ -1,0 +1,13 @@
+name = "Mekanism Unleashed"
+filename = "mekanism_unleashed-1.21-0.2.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/IZciqufR/versions/Y1WsGUvF/mekanism_unleashed-1.21-0.2.1.jar"
+hash-format = "sha512"
+hash = "94741168c370416e6a30b3dae48059dbc7b590664186f906e26aa79d83a26831ff05c0ee8cb189cdca5c45db863b5823b4816a2fdc7509fdadb6f594ac45e85c"
+
+[update]
+[update.modrinth]
+mod-id = "IZciqufR"
+version = "Y1WsGUvF"
