@@ -16,6 +16,16 @@ hash = "84d8a9d425f15edfe44faae06f852d8d7ab50d4f3b2b9fb28e7888cdf9c26b80"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "9935c7d620240596444e58492ebcd63732db49e6aee346c5f5cbe56038f594a0"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "fbca08faa9ef106f8596ea66b70ee0b9f2bae95812be9035410c363adfc789a7"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "54d899168a9152823a57a7e1d8087cba2019b52060d5c7f847c9cdbdea273f8f"
 metafile = true
