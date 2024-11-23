@@ -201,6 +201,11 @@ hash = "a3647b77576b1f3a3217badfbf45f6c1f092eb406bd68c704c9cf1fc12241ae1"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "5a2740df26c992175276b8d2d1ebe7efd10ef864308c342e9168a18a76326705"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "fecd394b03394805a2e095a7aeabfd6f241bfbd1db6b3eb6a8359394a5f2068a"
 metafile = true
