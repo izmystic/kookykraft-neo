@@ -586,6 +586,16 @@ hash = "6ddd5869c5dd0492fae8026911c3b2357c945a324e128bc0e180dfd2de155a42"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "c784f3be9fec144e706c8ba748443be7dbe073733242eda6beff83361825bbed"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "c3a512b6b5ee2d3eb1c2193fd3168edce7b627ac280df076379cdac19476ba5e"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "8060272fe07b2506170b23077472468be6cf87b4593ad42e16a22e1f1ab69769"
 metafile = true
