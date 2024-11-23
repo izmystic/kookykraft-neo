@@ -21,6 +21,11 @@ hash = "9935c7d620240596444e58492ebcd63732db49e6aee346c5f5cbe56038f594a0"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "14f2cc8d38e21da9228e6af092b9db79690d78a1054f1e30d5a2e0e3499fd961"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "fbca08faa9ef106f8596ea66b70ee0b9f2bae95812be9035410c363adfc789a7"
 metafile = true
