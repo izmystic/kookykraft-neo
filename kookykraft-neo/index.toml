@@ -216,6 +216,11 @@ hash = "a0b3f914a386d4236744bc749156bb7eca1014179a50e340af1ea4741198782f"
 metafile = true
 
 [[files]]
+file = "mods/extended-industrialization.pw.toml"
+hash = "74e9090ea184759f133018004cf19bc14557bdea2a94cf96abcb6d7cc03e20f2"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "fecd394b03394805a2e095a7aeabfd6f241bfbd1db6b3eb6a8359394a5f2068a"
 metafile = true
@@ -268,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "53b7873e229f9ffd722c84a3e277af26e10ed774d59f459c6e052db771c9620b"
+metafile = true
+
+[[files]]
+file = "mods/tesseract-api.pw.toml"
+hash = "0e9952fe48a88c74f72cb68e1df6459fb925f5155e301a891e373de4d769f654"
 metafile = true
 
 [[files]]
