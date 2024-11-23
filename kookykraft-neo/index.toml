@@ -236,6 +236,11 @@ hash = "3670f7011204413b9f982500a1146e9914f87340d31c2ff5d6c69ef24b10d16c"
 metafile = true
 
 [[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "61836654e4da58df51591b3aef29c5c1c99562b38ebccf2984edda89da4abea7"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "54d899168a9152823a57a7e1d8087cba2019b52060d5c7f847c9cdbdea273f8f"
 metafile = true
