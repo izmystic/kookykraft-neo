@@ -1,0 +1,13 @@
+name = "Default Dark Mode Plus"
+filename = "Default-Dark-Mode-Plus.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XSTfYy3G/versions/AtEGaTpU/Default-Dark-Mode-Plus.zip"
+hash-format = "sha512"
+hash = "3be63da164d6a2550f5234c47a874d92e7af932f96ab192d147bf3a19b396f1302f810c033ac125f78789742e24a18283fd9ba4036fafe10078cfcadb04bde35"
+
+[update]
+[update.modrinth]
+mod-id = "XSTfYy3G"
+version = "AtEGaTpU"
