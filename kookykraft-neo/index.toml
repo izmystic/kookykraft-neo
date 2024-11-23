@@ -16,6 +16,11 @@ hash = "84d8a9d425f15edfe44faae06f852d8d7ab50d4f3b2b9fb28e7888cdf9c26b80"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "c25034b269290202a75c4aa936933a12fa2caee68700b0820918d4dba1182adf"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "9935c7d620240596444e58492ebcd63732db49e6aee346c5f5cbe56038f594a0"
 metafile = true
