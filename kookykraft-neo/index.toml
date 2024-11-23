@@ -311,6 +311,11 @@ hash = "ed7d500877392d0dc94accef28e94c5035c74f4581b7ac1522a90ce18d2ab6b0"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "c8dfed125fde62635b6e7d1867dedfe3e284691f851903378ba04b32cdc70290"
+metafile = true
+
+[[files]]
 file = "mods/ldlib.pw.toml"
 hash = "decac424aa657198c8746c9786bda7721870194dc693a2cb7f5a692e6524907a"
 metafile = true
