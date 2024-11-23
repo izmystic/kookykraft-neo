@@ -246,6 +246,11 @@ hash = "80f5bb4f900bcb3a879ade50bc905bc206ccc5da0f5f6eb2048f2c2e0e8c9e7b"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes-forge.pw.toml"
+hash = "a3a0d38513eeeba88ae55e3aa6fce0babf9af33fe74be8ae12171fe090c54653"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "39ba2724e9940d01fe686e2c6ae17b3085ff1e77c8a7ef98164950ee9786cbee"
 metafile = true
