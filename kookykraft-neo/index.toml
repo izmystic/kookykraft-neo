@@ -471,6 +471,11 @@ hash = "895e7a90af3348a32be2b0021ddf6560dc3a3fc4e2912a7a1927a4d57b2bf21f"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "7db1173fe458f02390db136eb9aa4285e710b230a9d0984335b9ab4dbeb1ec41"
+metafile = true
+
+[[files]]
 file = "mods/more-immersive-wires.pw.toml"
 hash = "0e4296a2ed7891bb18bcce8818c6d9680c937bc27e370c119342f561a9ca8c65"
 metafile = true
@@ -628,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/stellaris.pw.toml"
 hash = "629854d6a1b8e7fec62add406861d1ce6d92713847a83e048ca34bcfa6cf8229"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "69bc4a8292ac501e26f30583b314866eb01689b0eb66ad7869203fb1e086b0e9"
 metafile = true
 
 [[files]]
