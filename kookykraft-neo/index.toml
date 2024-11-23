@@ -501,6 +501,11 @@ hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "54d899168a9152823a57a7e1d8087cba2019b52060d5c7f847c9cdbdea273f8f"
 metafile = true
