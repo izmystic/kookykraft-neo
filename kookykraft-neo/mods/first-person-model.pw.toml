@@ -1,0 +1,13 @@
+name = "First-person Model"
+filename = "firstperson-neoforge-2.4.6-mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/fRcmSCzs/firstperson-neoforge-2.4.6-mc1.21.jar"
+hash-format = "sha512"
+hash = "e86147e2e43024415e235b2e442970be803205dadca8f3ae3bda37dcf1415779f3aa1122dd76ac7d6f7d7742a5f16062ba462079b977b3542320b6aba5e225ec"
+
+[update]
+[update.modrinth]
+mod-id = "H5XMjpHi"
+version = "fRcmSCzs"

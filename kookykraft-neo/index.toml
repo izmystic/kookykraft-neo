@@ -241,6 +241,11 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "80f5bb4f900bcb3a879ade50bc905bc206ccc5da0f5f6eb2048f2c2e0e8c9e7b"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "39ba2724e9940d01fe686e2c6ae17b3085ff1e77c8a7ef98164950ee9786cbee"
 metafile = true
