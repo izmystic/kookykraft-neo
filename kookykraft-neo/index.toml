@@ -406,6 +406,11 @@ hash = "c5bd495559155721db2f361caac5047a2d24fdb0966593c85d3985f2b35d0875"
 metafile = true
 
 [[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "13772b913703000790373f0b26fad1857b3ce978973f86c14268af9f12f921ea"
+metafile = true
+
+[[files]]
 file = "mods/macaws-trapdoors.pw.toml"
 hash = "777b5473b0d167e1f80d25357129dfa0d1ea704203079656ffc222a4e776c45e"
 metafile = true
