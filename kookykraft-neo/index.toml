@@ -41,6 +41,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "958505547fc996ec4a4173743280a4878776fff7621f4b86becf390c29cb0588"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "fbca08faa9ef106f8596ea66b70ee0b9f2bae95812be9035410c363adfc789a7"
 metafile = true
