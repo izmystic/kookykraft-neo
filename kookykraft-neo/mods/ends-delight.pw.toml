@@ -1,0 +1,13 @@
+name = "End's Delight"
+filename = "ends_delight-neoforge-1.21.1-2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yHN0njMr/versions/vvJi0q4u/ends_delight-neoforge-1.21.1-2.5.jar"
+hash-format = "sha512"
+hash = "d8e505a0a060d750f222c910b8023232e095e4a0f375d32f5a71f6a3877044c20b6620ebc6f2a7260d8db6306f72f757833f8ff37f01c2f9e496244a0504a49e"
+
+[update]
+[update.modrinth]
+mod-id = "yHN0njMr"
+version = "vvJi0q4u"
