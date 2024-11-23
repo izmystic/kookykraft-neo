@@ -206,6 +206,11 @@ hash = "5a2740df26c992175276b8d2d1ebe7efd10ef864308c342e9168a18a76326705"
 metafile = true
 
 [[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "07668fad3e767adee679effb586412bad11db408f5f72b3fb7287863a78a98f0"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "fecd394b03394805a2e095a7aeabfd6f241bfbd1db6b3eb6a8359394a5f2068a"
 metafile = true

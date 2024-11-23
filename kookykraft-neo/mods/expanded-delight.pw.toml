@@ -1,0 +1,13 @@
+name = "Expanded Delight"
+filename = "expandeddelight-0.1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e9V6wFcR/versions/bDKZTska/expandeddelight-0.1.2.2.jar"
+hash-format = "sha512"
+hash = "1e125d8e35293d186ec3e8e9075050b118014b3bcc2ee40f8de2a75a009942591572d027e7af5c049596f4329552d2da7c34bf9d06fd00c6cc4cca7160398bba"
+
+[update]
+[update.modrinth]
+mod-id = "e9V6wFcR"
+version = "bDKZTska"
