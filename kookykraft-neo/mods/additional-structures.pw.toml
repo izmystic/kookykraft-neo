@@ -1,6 +1,6 @@
 name = "Additional Structures"
 filename = "AdditionalStructures-1.21-(v.6.0.1-NEO).jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TWsbC6jW/versions/2AMB4SVA/AdditionalStructures-1.21-%28v.6.0.1-NEO%29.jar"

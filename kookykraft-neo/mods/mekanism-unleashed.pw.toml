@@ -1,6 +1,6 @@
 name = "Mekanism Unleashed"
 filename = "mekanism_unleashed-1.21-0.2.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/IZciqufR/versions/Y1WsGUvF/mekanism_unleashed-1.21-0.2.1.jar"
