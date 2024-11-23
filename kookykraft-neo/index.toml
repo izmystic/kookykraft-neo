@@ -51,6 +51,11 @@ hash = "515e6bb16a175b9d23a85e9d4ea1c00145d3b85ccb44dc3d8762209538b5c3ba"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "b7d562bc0145b1e3dc5040656081ecea7102b2db176047a909d5cb11801d8871"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "fbca08faa9ef106f8596ea66b70ee0b9f2bae95812be9035410c363adfc789a7"
 metafile = true
