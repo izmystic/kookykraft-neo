@@ -76,6 +76,11 @@ hash = "5886952c4602672577b0215c818633c77397d156f8526e2e5411b4a247f6be1e"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "feb06f770c9a67c18847a09cb60416b01326b58c563a8a8ec3a5674eddadd072"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
