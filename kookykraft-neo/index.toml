@@ -611,6 +611,16 @@ hash = "819b3e7402252905b6fe89743589df910c84995e8305995cb61d1f32fda2a2eb"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "4e28e41307883797d2a6fbc2ae6cd9d75d5356ed0874d4f7f4ee8a1a75dba9e0"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "e0e74bffeb642509882216c2fd423e6b9e64192c0c0568623e8c9c9e005d9f9d"
+metafile = true
+
+[[files]]
 file = "mods/tesseract-api.pw.toml"
 hash = "0e9952fe48a88c74f72cb68e1df6459fb925f5155e301a891e373de4d769f654"
 metafile = true
