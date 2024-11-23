@@ -151,8 +151,18 @@ hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "a26bd481de0c7f2823db1a3841e055584270635067315f99c28bba841a3083d2"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "0e7350f45873226d5860dafcc6bc81aa398d1eb49aa94049a01cc4367b4cee95"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "39ba2724e9940d01fe686e2c6ae17b3085ff1e77c8a7ef98164950ee9786cbee"
 metafile = true
 
 [[files]]
