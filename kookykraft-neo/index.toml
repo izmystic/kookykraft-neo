@@ -361,6 +361,11 @@ hash = "5707983b66a972b2e6cceee28f2b48cc755199df4942f77d911afa863063b28a"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "7dd892fb09af08927855d3608c69c78e8d98ce2f0a484970e8379b81a4a2f608"
+metafile = true
+
+[[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "61836654e4da58df51591b3aef29c5c1c99562b38ebccf2984edda89da4abea7"
 metafile = true
