@@ -1,0 +1,13 @@
+name = "Powah!"
+filename = "Powah-6.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KZO4S4DO/versions/YKRidpaM/Powah-6.1.2.jar"
+hash-format = "sha512"
+hash = "f2921a2be59345c78176fbea68521cdb5ca8db3acd721e85bf10e940e2e71064147c7c158a24f339a9c71fbd4db733dd45570a2dd95025c1671187c6506cc44b"
+
+[update]
+[update.modrinth]
+mod-id = "KZO4S4DO"
+version = "YKRidpaM"
