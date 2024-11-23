@@ -741,6 +741,11 @@ hash = "e223aea35b4bbe85f44e70be45c4fe9892d3729d27f61e5f6461c0a40612ed12"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "e2b23d0a1bf228d37ff8c3330150c24eb19cb875e113fae543191f34ded92ff8"
+metafile = true
+
+[[files]]
 file = "mods/zerocore.pw.toml"
 hash = "b51c9c50edbb8a8ef8823160e2cb5d6b1d20c06c5b86dc2d3541c456b8962ab3"
 metafile = true
