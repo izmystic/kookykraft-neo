@@ -301,6 +301,11 @@ hash = "c47a5b65cb645eaed03d389463eba4a61bf5dc8863d191291b9cfb0d355cd123"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "3859e1f458214370544528fdaa99836c568d2f855f0eb17a6e3ec02d86376d95"
+metafile = true
+
+[[files]]
 file = "mods/ldlib.pw.toml"
 hash = "decac424aa657198c8746c9786bda7721870194dc693a2cb7f5a692e6524907a"
 metafile = true
@@ -348,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/tesseract-api.pw.toml"
 hash = "0e9952fe48a88c74f72cb68e1df6459fb925f5155e301a891e373de4d769f654"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "7b35eb58ce9cbacf11f80afc0d22dc33664d3f5c6447a1130163adf716f2c0df"
 metafile = true
 
 [[files]]
