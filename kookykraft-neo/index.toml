@@ -191,6 +191,11 @@ hash = "467d7d44e4da1ac78b4c80b71ddf8b91cbca4bca068318f6ee548299eef28e82"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "fecd394b03394805a2e095a7aeabfd6f241bfbd1db6b3eb6a8359394a5f2068a"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "39ba2724e9940d01fe686e2c6ae17b3085ff1e77c8a7ef98164950ee9786cbee"
 metafile = true
