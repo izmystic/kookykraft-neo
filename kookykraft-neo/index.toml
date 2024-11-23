@@ -286,6 +286,11 @@ hash = "6e40c0f36c3540713d55d29cc0434abfd0a850d31f5857faa018199fcb4b4589"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "5ffd03a8cbc1d35265ea7425356e6c2086ffd16ffd198a2a69de5b2b650a227d"
+metafile = true
+
+[[files]]
 file = "mods/ldlib.pw.toml"
 hash = "decac424aa657198c8746c9786bda7721870194dc693a2cb7f5a692e6524907a"
 metafile = true
