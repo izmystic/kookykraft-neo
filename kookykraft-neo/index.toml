@@ -356,6 +356,11 @@ hash = "53b7873e229f9ffd722c84a3e277af26e10ed774d59f459c6e052db771c9620b"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "8060272fe07b2506170b23077472468be6cf87b4593ad42e16a22e1f1ab69769"
+metafile = true
+
+[[files]]
 file = "mods/tesseract-api.pw.toml"
 hash = "0e9952fe48a88c74f72cb68e1df6459fb925f5155e301a891e373de4d769f654"
 metafile = true
