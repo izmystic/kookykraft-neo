@@ -411,6 +411,11 @@ hash = "777b5473b0d167e1f80d25357129dfa0d1ea704203079656ffc222a4e776c45e"
 metafile = true
 
 [[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "409cf6c16cb9012c1aa933a1f2fda6b526a9476aa25584314629c78a5ba10a64"
+metafile = true
+
+[[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "61836654e4da58df51591b3aef29c5c1c99562b38ebccf2984edda89da4abea7"
 metafile = true
