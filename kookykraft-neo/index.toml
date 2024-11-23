@@ -736,6 +736,11 @@ hash = "9492d0854c51570bf2a6bace6267262e7573b94c40d721348996617e5d99480a"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "e223aea35b4bbe85f44e70be45c4fe9892d3729d27f61e5f6461c0a40612ed12"
+metafile = true
+
+[[files]]
 file = "mods/zerocore.pw.toml"
 hash = "b51c9c50edbb8a8ef8823160e2cb5d6b1d20c06c5b86dc2d3541c456b8962ab3"
 metafile = true
