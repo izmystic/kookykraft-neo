@@ -76,6 +76,11 @@ hash = "5886952c4602672577b0215c818633c77397d156f8526e2e5411b4a247f6be1e"
 metafile = true
 
 [[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "42cc092cb62e438f6d20990a113748ae58e88c8d1e771cca00e6c64d6b8cebfa"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "feb06f770c9a67c18847a09cb60416b01326b58c563a8a8ec3a5674eddadd072"
 metafile = true
