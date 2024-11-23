@@ -666,6 +666,11 @@ hash = "fcc4e00f37493f6292af7fbef7be6ea27e1a0cb4185d010e17db67e4ac61da15"
 metafile = true
 
 [[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "26a600d36f09a84b2f1e94dcec563e15895a249abf4158c96a6b6d28f35de10b"
+metafile = true
+
+[[files]]
 file = "mods/zerocore.pw.toml"
 hash = "b51c9c50edbb8a8ef8823160e2cb5d6b1d20c06c5b86dc2d3541c456b8962ab3"
 metafile = true
