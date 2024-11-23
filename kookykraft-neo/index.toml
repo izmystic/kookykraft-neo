@@ -676,6 +676,11 @@ hash = "d1f4e89f0bab13ba276c7eda30f893c96a4ea6163357e8fcefe0c3b2b704b142"
 metafile = true
 
 [[files]]
+file = "mods/world-host.pw.toml"
+hash = "bb7d203b82e100bacb891d51933beda32d5a2b2e7ed95ceaec1c68b841ae87e4"
+metafile = true
+
+[[files]]
 file = "mods/wwoo.pw.toml"
 hash = "b8691fd91e8198d001e78d7ca82c9ab05aee6fb76bebb41b1b6fd6ca98ff29c9"
 metafile = true

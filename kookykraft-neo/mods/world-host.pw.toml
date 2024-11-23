@@ -1,0 +1,13 @@
+name = "World Host"
+filename = "world-host-0.5.0+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2AIZDfYo/versions/lMCmgbw7/world-host-0.5.0%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "763d2fe2a95753ca7b79fc33fef8319fc12bac1ecb0500a5861e5188108532663d1225e1eb90871e05ad79603e0da4a2c3bb10bba88838cd28dd4cb74931b701"
+
+[update]
+[update.modrinth]
+mod-id = "2AIZDfYo"
+version = "lMCmgbw7"
