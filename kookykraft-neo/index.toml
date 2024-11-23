@@ -46,6 +46,11 @@ hash = "958505547fc996ec4a4173743280a4878776fff7621f4b86becf390c29cb0588"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "515e6bb16a175b9d23a85e9d4ea1c00145d3b85ccb44dc3d8762209538b5c3ba"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "fbca08faa9ef106f8596ea66b70ee0b9f2bae95812be9035410c363adfc789a7"
 metafile = true
