@@ -61,6 +61,16 @@ hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "848e812fdf914ccae8442957095f631aaf8b71a04a9ff84c9f5f7fb9909e3a56"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "fbca08faa9ef106f8596ea66b70ee0b9f2bae95812be9035410c363adfc789a7"
 metafile = true
