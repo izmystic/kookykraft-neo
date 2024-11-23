@@ -116,8 +116,18 @@ hash = "fbca08faa9ef106f8596ea66b70ee0b9f2bae95812be9035410c363adfc789a7"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "84fe2e65b4bb3cbe9017d7c36036a88829d38751093d55c5f4b540ceac855a13"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "47ebe5275da39f45d2647ca4ea198bac372fbdb36231c1c1fcdb2270e2707829"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "c9c1134b6475be8d2d101bb7a29afbe43ca7f7df04819ad350e7cc96dbf1284a"
 metafile = true
 
 [[files]]
@@ -133,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "216b634d4cfae096c106b1414706876190a90a30b165d6b4327ad39f6a59b65d"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "46e9a602f3d529911039124b3549cbe2e02ebf1817a7804ba89873036b1dba1b"
 metafile = true
 
 [[files]]
