@@ -186,6 +186,11 @@ hash = "0e7350f45873226d5860dafcc6bc81aa398d1eb49aa94049a01cc4367b4cee95"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "467d7d44e4da1ac78b4c80b71ddf8b91cbca4bca068318f6ee548299eef28e82"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "39ba2724e9940d01fe686e2c6ae17b3085ff1e77c8a7ef98164950ee9786cbee"
 metafile = true
@@ -208,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "216b634d4cfae096c106b1414706876190a90a30b165d6b4327ad39f6a59b65d"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "7750bf1c0a66c843a06f07bd0ed7157d14ff0958e19426aadaed6ecf3034af65"
 metafile = true
 
 [[files]]
