@@ -1,2 +1,6 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "6d5b92847236d42e14e0a39e5a5cbda2c379666ed356858f9c3ef863e23dee06"
+metafile = true
