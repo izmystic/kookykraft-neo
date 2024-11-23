@@ -226,6 +226,11 @@ hash = "a0e98b12d824759f6b39eae1d428e7df6fe63a72b85d17dde4e3c002521e7261"
 metafile = true
 
 [[files]]
+file = "mods/fallingleavesforge.pw.toml"
+hash = "ece5752d83e6d8a642a73946d786f0be9196588c4d694da7565d8f232c902033"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "fecd394b03394805a2e095a7aeabfd6f241bfbd1db6b3eb6a8359394a5f2068a"
 metafile = true
