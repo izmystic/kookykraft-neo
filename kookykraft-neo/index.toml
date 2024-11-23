@@ -4,3 +4,13 @@ hash-format = "sha256"
 file = "mods/3dskinlayers.pw.toml"
 hash = "6d5b92847236d42e14e0a39e5a5cbda2c379666ed356858f9c3ef863e23dee06"
 metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "9b52509bbd99599cd399d3fb5131bc2b0948b35a898076aca1c706ac46aee03d"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "54d899168a9152823a57a7e1d8087cba2019b52060d5c7f847c9cdbdea273f8f"
+metafile = true
