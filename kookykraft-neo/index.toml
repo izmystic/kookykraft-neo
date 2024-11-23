@@ -146,6 +146,11 @@ hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
 
 [[files]]
+file = "mods/cucumber.pw.toml"
+hash = "2744524151b4627ead517880a2bb1dd2fbc9996ea0cd89c3b947105d95edd0e0"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "bbb3f09fbd5a3ca7aa82c41923f4557429fa465993c2817e9966dd3f8164e318"
 metafile = true
@@ -478,6 +483,11 @@ metafile = true
 [[files]]
 file = "mods/mutant-monsters.pw.toml"
 hash = "caa3e2282daef2c96ca71b329e07453d904aa338026e274c362432512b0129ca"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "d67325b2667a0f3774262b484d8b9d35f5d321dd499de6879b6c85e6fe7ff431"
 metafile = true
 
 [[files]]
