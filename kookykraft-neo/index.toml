@@ -676,6 +676,11 @@ hash = "d1f4e89f0bab13ba276c7eda30f893c96a4ea6163357e8fcefe0c3b2b704b142"
 metafile = true
 
 [[files]]
+file = "mods/wwoo.pw.toml"
+hash = "b8691fd91e8198d001e78d7ca82c9ab05aee6fb76bebb41b1b6fd6ca98ff29c9"
+metafile = true
+
+[[files]]
 file = "mods/zerocore.pw.toml"
 hash = "b51c9c50edbb8a8ef8823160e2cb5d6b1d20c06c5b86dc2d3541c456b8962ab3"
 metafile = true
