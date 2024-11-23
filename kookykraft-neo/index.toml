@@ -26,6 +26,11 @@ hash = "14f2cc8d38e21da9228e6af092b9db79690d78a1054f1e30d5a2e0e3499fd961"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "fbca08faa9ef106f8596ea66b70ee0b9f2bae95812be9035410c363adfc789a7"
 metafile = true
