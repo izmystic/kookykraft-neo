@@ -246,6 +246,11 @@ hash = "80f5bb4f900bcb3a879ade50bc905bc206ccc5da0f5f6eb2048f2c2e0e8c9e7b"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes-beekeeper-hut-forge.pw.toml"
+hash = "d34a76aad21b78c728e11faf474aff2a59b8fa7c603756efb7bbd40677551536"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "a3a0d38513eeeba88ae55e3aa6fce0babf9af33fe74be8ae12171fe090c54653"
 metafile = true
