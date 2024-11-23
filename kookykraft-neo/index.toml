@@ -251,6 +251,11 @@ hash = "d34a76aad21b78c728e11faf474aff2a59b8fa7c603756efb7bbd40677551536"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes-flowery-mooblooms-forge.pw.toml"
+hash = "16bf92e9cddbe3481a0df40237a4439a5781ee30e77b27659b03457593d6f666"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "a3a0d38513eeeba88ae55e3aa6fce0babf9af33fe74be8ae12171fe090c54653"
 metafile = true
