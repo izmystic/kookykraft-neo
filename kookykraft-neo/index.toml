@@ -101,6 +101,16 @@ hash = "fbca08faa9ef106f8596ea66b70ee0b9f2bae95812be9035410c363adfc789a7"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "47ebe5275da39f45d2647ca4ea198bac372fbdb36231c1c1fcdb2270e2707829"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "3670f7011204413b9f982500a1146e9914f87340d31c2ff5d6c69ef24b10d16c"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "54d899168a9152823a57a7e1d8087cba2019b52060d5c7f847c9cdbdea273f8f"
 metafile = true
