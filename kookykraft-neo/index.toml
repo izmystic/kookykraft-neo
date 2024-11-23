@@ -321,6 +321,11 @@ hash = "c8dfed125fde62635b6e7d1867dedfe3e284691f851903378ba04b32cdc70290"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "39ae423100c90ae989147b69e10b0f0a9c1dc934a986ba106f12f6362e252336"
+metafile = true
+
+[[files]]
 file = "mods/ldlib.pw.toml"
 hash = "decac424aa657198c8746c9786bda7721870194dc693a2cb7f5a692e6524907a"
 metafile = true
