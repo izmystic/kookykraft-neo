@@ -1,0 +1,13 @@
+name = "Mystical Agradditions"
+filename = "MysticalAgradditions-1.21.1-8.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pl0jGXIx/versions/WMeInTzs/MysticalAgradditions-1.21.1-8.0.3.jar"
+hash-format = "sha512"
+hash = "d24b15e772750a13639c47dd68354f60fac8efc8d66dd11bd63f57bed05624e7ce15b9c83d160317307eb9280fcddec5d2711e9e3c960a222994d809a64dd1d1"
+
+[update]
+[update.modrinth]
+mod-id = "pl0jGXIx"
+version = "WMeInTzs"
